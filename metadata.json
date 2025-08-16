@@ -1,0 +1,5 @@
+{
+  "name": "Visual Glossary Generator - Github",
+  "description": "An interactive application that transforms a text-based glossary into a visually stunning experience with flippable, animated cards. It uses AI to assign relevant icons to each term and a physics-based layout for dynamic interaction.",
+  "requestFramePermissions": []
+}
